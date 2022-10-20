@@ -11,7 +11,7 @@ If you use anything from this list, you'd better install a corresponding bridge 
 
 * [Laravel] (https://github.com/arrilot/laravel-data-anonymization)
 
-Otherwise just ```composer require arrilot/data-anonymization```
+Otherwise just ```composer require makynou/data-anonymization```
 
 ## Usage
 
