@@ -1,18 +1,12 @@
 {
-  "name": "arrilot/data-anonymization",
+  "name": "makynou/data-anonymization",
   "license": "MIT",
   "description": "Anonymize any data in your SQL database",
   "keywords": [
     "anonymization",
     "database"
   ],
-  "authors": [
-    {
-      "name": "Nekrasov Ilya",
-      "email": "nekrasov.ilya90@gmail.com"
-    }
-  ],
-  "homepage": "https://github.com/arrilot/data-anonymization",
+  "homepage": "https://github.com/Makynou/data-anonymization",
   "require": {
     "php": ">=5.5.0"
   },
